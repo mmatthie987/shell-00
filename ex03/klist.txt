@@ -1,0 +1,6 @@
+Credentials cache: API:4485
+        Principal: mmatthie@42NICE.FR
+
+  Issued                Expires               Principal
+Jun  4 16:19:32 2021  Jun  5 02:19:32 2021  krbtgt/42NICE.FR@42NICE.FR
+Jun  4 16:19:36 2021  Jun  5 02:19:32 2021  HTTP/student-storage.42nice.fr@42NICE.FR
